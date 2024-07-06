@@ -52,7 +52,7 @@ hr {
     display: flex;
     align-items: center;
     margin-top: 10px;
-    font-family: "Arial Nova Light", Arial, serif;
+    font-family: "Arial Nova Light", Arial, sans-serif;
     font-size: 1em;
 }
 
@@ -67,7 +67,7 @@ hr {
 }
 
 .info {
-    font-family: "Arial Nova", Arial, serif;
+    font-family: "Arial Nova", Arial, sans-serif;
     box-sizing: border-box;
     overflow: hidden;
 }
